@@ -1,0 +1,447 @@
+canonical_identifier: bkk:krp/KR6v0380/v1
+canonical_location: https://kanripo.org/bkk/KR6v0380/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 雙峰山曹侯溪寶林傳（殘卷）
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B14/B14n0081.xml
+    old_id: B14n0081
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0380_000.yaml, hash: 'sha256:1ad0e35a98af3fc432031dfedfa5cb13434123ef5862239e45151038e8ae1d99'}
+  - {seq: 1, filename: KR6v0380_001.yaml, hash: 'sha256:c8d8e75ddfef0ef634f1a368a3b435642b1398feca1b2d0b6ae4640f9d69ffe5'}
+  - {seq: 2, filename: KR6v0380_002.yaml, hash: 'sha256:be83bbd8ff1949da8ed1f9ca121ea3acb1f8756235ce1cb4a6197239cd36a997'}
+  - {seq: 4, filename: KR6v0380_004.yaml, hash: 'sha256:ae71561943743dd9b41e0c490027dd265239ddfd2128d5c76bf4edaf01bbc21d'}
+  - {seq: 6, filename: KR6v0380_006.yaml, hash: 'sha256:06ca71be56b09ae8fd82a30456f2bf2d9b2334593b9057e7d6afb2c054931e2e'}
+  - {seq: 8, filename: KR6v0380_008.yaml, hash: 'sha256:c5a7b3a8bb6f027671296d4c3989059421c7ae2a240df41502fc4c0f837437ef'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0380_001.markers.yaml, hash: 'sha256:3e3308e9e85dfa3f2db647282ef7ea1901cf3aba083b192ddae3f3c43a1b0b64'}
+  - {seq: 2, role: markers, filename: assets/KR6v0380_002.markers.yaml, hash: 'sha256:37f67baa4a783e2d2d07a642e6e024e6e45ac242222178dbfef806b979e71ae0'}
+  - {seq: 4, role: markers, filename: assets/KR6v0380_004.markers.yaml, hash: 'sha256:c3a566636fbf323ddc9e121699796a1ea09501fa14ee7f338c4e401d7dfef612'}
+  - {seq: 6, role: markers, filename: assets/KR6v0380_006.markers.yaml, hash: 'sha256:8b668053f1c904d8dcfdd0cea7a480475b7ba18cd03a120e627ece2567046a70'}
+  - {seq: 8, role: markers, filename: assets/KR6v0380_008.markers.yaml, hash: 'sha256:9c1a2644f3d26f6105db6f0bee6a01b4c00af97d8e7a32f6539fe717b349810d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0380_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 7097
+  label: 雙峯山曹侯溪寶林傳（殘卷）
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0380_B_001-mulu-1
+    span:
+    - body
+    - 2926
+    - 2926
+  label: 度眾付法章涅槃品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0380_B_001-mulu-2
+    span:
+    - body
+    - 3903
+    - 3903
+  label: 第一祖大迦葉章結集品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0380_B_001-mulu-3
+    span:
+    - body
+    - 5724
+    - 5724
+  label: 婆耆德政章徵述品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 18073
+  label: 雙峯山曹侯溪寶林傳卷第二失第二第十兩卷而京師徧問皆無
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第二祖阿難童中流寂滅品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-2
+    span:
+    - body
+    - 1645
+    - 1645
+  label: 第三祖商那和脩章降火龍品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-3
+    span:
+    - body
+    - 2946
+    - 2946
+  label: 弟四祖優波毱多章化三尸品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-4
+    span:
+    - body
+    - 4062
+    - 4062
+  label: 第五祖提多迦章仙受化品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-5
+    span:
+    - body
+    - 4780
+    - 4780
+  label: 第六祖彌遮迦章除觸器品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-6
+    span:
+    - body
+    - 5308
+    - 5308
+  label: 第七祖婆湏蜜章梵王問品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-7
+    span:
+    - body
+    - 5712
+    - 5712
+  label: 第八祖佛陀難提章白光通貫品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-8
+    span:
+    - body
+    - 6588
+    - 6588
+  label: 第九祖伏馱蜜…品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-9
+    span:
+    - body
+    - 7208
+    - 7208
+  label: 第十脇尊者章預感金地品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-10
+    span:
+    - body
+    - 8244
+    - 8244
+  label: 第十一祖富那夜奢章察馬鳴品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-11
+    span:
+    - body
+    - 9321
+    - 9321
+  label: 第十二馬鳴菩薩章現日輪品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-12
+    span:
+    - body
+    - 10213
+    - 10213
+  label: 第十三祖毗羅尊者章他心知疑品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-13
+    span:
+    - body
+    - 11555
+    - 11555
+  label: 第十四龍樹菩薩章辯天戰品第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-14
+    span:
+    - body
+    - 13073
+    - 13073
+  label: 第十五祖迦那提婆章興百論品第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-15
+    span:
+    - body
+    - 14766
+    - 14766
+  label: 第十六祖羅睺羅多章取甘露品第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0380_B_002-mulu-16
+    span:
+    - body
+    - 16310
+    - 16310
+  label: 第十七祖僧伽難提章辯金河品第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 20408
+  label: 雙峯山曹侯溪寶林傳卷第四　秦
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第十八祖伽耶舍多章簷狗品第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-2
+    span:
+    - body
+    - 1909
+    - 1909
+  label: 第十九祖鳩摩羅多章試神足品第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-3
+    span:
+    - body
+    - 3493
+    - 3493
+  label: 第二十祖闍夜多章示終神力品第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-4
+    span:
+    - body
+    - 5100
+    - 5100
+  label: 第二十一祖婆修盤頭章舉太子品第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-5
+    span:
+    - body
+    - 7321
+    - 7321
+  label: 第二十二祖摩拏羅章伏術師品第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-6
+    span:
+    - body
+    - 9339
+    - 9339
+  label: …品第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-7
+    span:
+    - body
+    - 11116
+    - 11116
+  label: 摩拏羅印國土章指泉示化品第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-8
+    span:
+    - body
+    - 13370
+    - 13370
+  label: 第二十三祖鸖勒尊者章辯難氣品第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-9
+    span:
+    - body
+    - 16135
+    - 16135
+  label: 第二十四祖師子比丘章辯珠品第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0380_B_004-mulu-10
+    span:
+    - body
+    - 18276
+    - 18276
+  label: 師子弟子章撗師統引品第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0380_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 16317
+  label: 大唐韶州雙峯山曹溪寶林傳卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0380_B_006-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 三藏辨宗章示化異香品第三十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0380_B_006-mulu-2
+    span:
+    - body
+    - 4627
+    - 4627
+  label: 第廿五婆舍斯多章焚衣感應品第三十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0380_B_006-mulu-3
+    span:
+    - body
+    - 7771
+    - 7771
+  label: 婆舍斯多濟儲見乳章弁瑞日月品第三十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0380_B_006-mulu-4
+    span:
+    - body
+    - 12128
+    - 12128
+  label: 第廿六祖不如密多章辨毒龍地品第三十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0380_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 9742
+  label: 雙峯山曹侯溪寶林傳卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0380_B_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 達摩行教游漢土章布六葉品第三十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0380_B_008-mulu-2
+    span:
+    - body
+    - 4506
+    - 4506
+  label: 第二十九祖可大師章斷臂求法品第四十
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0380_B_008-mulu-3
+    span:
+    - body
+    - 7020
+    - 7020
+  label: 第三十祖僧󳜢大師章却歸示化品第四十一
+  type: mulu
+  level: 1
+hash: sha256:d99b68c0bc18debc6d6bc793430214eba3043fb695899720e325ebcbac071c95
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

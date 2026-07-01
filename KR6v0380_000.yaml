@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0380/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雙峰山曹侯溪寶林傳（殘卷）
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B14/B14n0081.xml
+    old_id: B14n0081
+hash: sha256:1ad0e35a98af3fc432031dfedfa5cb13434123ef5862239e45151038e8ae1d99
